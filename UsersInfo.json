@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5eb6ca2d6fdf9209eb0c4b96"},"Login":"Alex","Password":"qwerty","Ip":"123.3.4.234","Balance":3000,"Messages":["Hi","I'm Alex"]}
+{"_id":{"$oid":"5eb6cab66fdf9209eb0c4b97"},"Login":"Vova","Password":"1234","IP":"123.32.3.44","Balance":3000,"Messages":["asdafs","Nice","Cool"]}
+{"_id":{"$oid":"5eb6cb0c6fdf9209eb0c4b98"},"Login":"Nata","Password":"4321","IP":"11.111.1.11","Balance":3000,"Messages":["Hi","everyone"]}
+{"_id":{"$oid":"5eb857c7f8ae83a266496ac6"},"Login":"Victor","Password":"asdf","Balance":-300}

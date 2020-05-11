@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5eb6c37b6fdf9209eb0c4b92"},"Start":{"$date":"2020-05-09T11:00:00Z"},"Stop":{"$date":"2020-05-09T12:00:00Z"},"Intraffic":"1000","Outtraffic":"2500","Cost":500,"Client_IP":"123.3.4.234"}
+{"_id":{"$oid":"5eb6c40d6fdf9209eb0c4b93"},"Start":{"$date":"2020-05-09T11:15:00Z"},"Stop":{"$date":"2020-05-09T11:25:00Z"},"Intraffic":"250","Outtraffic":"700","Cost":100,"Client_IP":"123.32.3.44"}
+{"_id":{"$oid":"5eb6c4896fdf9209eb0c4b94"},"Start":{"$date":"2020-05-09T10:00:00Z"},"Stop":{"$date":"2020-05-09T12:00:00Z"},"Intraffic":"4000","Outtraffic":"3000","Cost":1500,"Client_IP":"11.111.1.11"}
+{"_id":{"$oid":"5eb6c5876fdf9209eb0c4b95"},"Start":{"$date":"2001-11-29T10:00:00Z"},"Stop":{"$date":"2020-05-09T12:00:00Z"},"Intraffic":"300","Outtraffic":"100","Cost":750,"Client_IP":"123.32.3.44"}
